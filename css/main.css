@@ -1,0 +1,151 @@
+body {
+  font-family:"Arial";
+}
+
+a {
+  text-decoration:none;
+  color:#2222B5;
+}
+
+#page {
+  width:700px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+#name {
+  float:right;
+  color:#888;
+  margin-right:50px ;
+  letter-spacing:0.7em;
+  font-size:1.8em;
+  font-weight:bold;
+}
+
+#name a{
+  color:#888;
+}
+
+#subname {
+  width:100%;
+  color:#800000;
+  letter-spacing:0.2em ;
+  font-size:0.4em;
+}
+
+#subname a {
+  color:#800000;
+}
+
+#subname span {
+  float:right ;
+}
+
+#photo img {
+  width:200px ;
+}
+
+#teaching_hours {
+	margin-top:25px;
+}
+
+#teaching_hours .ue {
+	margin-top:15px;
+}
+
+#teaching_hours .ue_title{
+font-weight:bold;
+}
+
+#teaching_hours .details{
+ font-size:0.8em;
+ margin-left:30px;
+ margin-top:5px;
+}
+
+div.mail {
+  float:right;
+  margin-top:-100px;
+  letter-spacing:0.3em;
+  font-size:0.8em ;
+  text-shadow: 1px 1px 3px #999 ;
+}
+
+#mail1 {
+  margin-right:120px ;
+}
+
+#mail2 {
+  margin-top:-80px;
+  margin-right:163px ;
+}
+
+#menu {
+/*  font-weight:bold; */
+  margin-top:50px ;
+  text-align:center;
+  letter-spacing:0.3em;
+  font-size:0.7em ;
+}
+
+#tweeter {
+text-align:center;
+margin-top:20px;
+}
+
+#content {
+  clear:both;
+  padding-top:40px ;
+}
+
+#content .header {
+  font-weight:bold;
+  letter-spacing:0.3em ;
+}
+
+#content .publications {
+  margin-top:10px ;
+  margin-bottom:20px ;
+}
+
+#content .publications .publication {
+  text-align:justify;
+  margin-left:15px;
+  margin-bottom:30px;
+  letter-spacing:0.1em ;
+  font-size:0.9em;
+}
+
+#content .publications .publication .title {
+  font-weight:bold;
+}
+
+#content .publications .publication .proceedings {
+  font-style:italic;
+}
+
+#content .publications .publication .links {
+  float:right;
+}
+
+#research {
+text-align : justify;
+letter-spacing:0.1em;
+  font-size:0.9em;
+}
+
+.authors {
+color : #888 ;
+}
+
+.missa {
+color : black ;
+}
+
+.best_paper {
+position:absolute;
+width:30px;
+height:30px;
+margin-left:-35px;
+margin-top:3px;
+}
